@@ -8,7 +8,7 @@ author:
   bio: "Analista tecnico e consulente finanziario"
   location: "Italia"
 
-# Navigazione (menu in alto)
+# Menu
 nav:
   - title: "Chi sono"
     url: /chi-sono/
